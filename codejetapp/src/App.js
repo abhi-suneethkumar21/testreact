@@ -1,5 +1,7 @@
 import React from "react";
-import Wireframe from "./pages/Wireframe1_0/Wireframe_0"; // Importing the main Wireframe
+import Wireframe from "./pages/Wireframe1_0/Wireframe1_0/Wireframe_0";
+
+// Importing the main Wireframe
 
 function App() {
   return (

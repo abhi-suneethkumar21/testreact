@@ -4,7 +4,7 @@ import { Menu as Menu_0 } from "./Menu_0";
 import { Rectangle3 as Rectangle3_0 } from "assets/Rectangle3_0";
 import { TEXT } from "components/TEXT";
 
-export const Wireframe = () => {
+export default Wireframe = () => {
   return (
     <div className="Wireframe_6_3">
       <Nav_0 />
@@ -27,4 +27,3 @@ export const Wireframe = () => {
     </div>
   );
 };
-export default Wireframe;
