@@ -1,8 +1,8 @@
 import "./style.css";
-import { Rectangle1 as Rectangle1_0 } from "assets/Rectangle1_0";
-import { TEXT } from "components/TEXT";
-import { Rectangle2 as Rectangle2_0 } from "assets/Rectangle2_0";
-import { Search as Search_0 } from "assets/Search_0";
+import { Rectangle1 as Rectangle1_0 } from "C:/Users/abhis/Desktop/testreact/testreact/codejetapp/src/assets/Rectangle1_0";
+import { TEXT } from "C:/Users/abhis/Desktop/testreact/testreact/codejetapp/src/components/TEXT";
+import { Rectangle2 as Rectangle2_0 } from "C:/Users/abhis/Desktop/testreact/testreact/codejetapp/src/assets/Rectangle2_0";
+import { Search as Search_0 } from "C:/Users/abhis/Desktop/testreact/testreact/codejetapp/src/assets/Search_0";
 
 export const Nav = () => {
   return (

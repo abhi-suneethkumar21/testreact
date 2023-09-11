@@ -1,11 +1,12 @@
 import "./style.css";
-import Wireframe from "./Wireframe_0";
+import WireframeComponent from "./Wireframe_0";
 
 export const Wireframe1 = () => {
   return (
     <div className="Wireframe1_6_2">
-      <Wireframe_0 />
+      <WireframeComponent />
     </div>
   );
 };
-export default Wireframe;
+
+export default Wireframe1;

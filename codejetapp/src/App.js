@@ -1,7 +1,5 @@
 import React from "react";
-import Wireframe from "./pages/Wireframe1_0/Wireframe1_0/Wireframe_0";
-
-// Importing the main Wireframe
+import Wireframe from "C:/Users/abhis/Desktop/testreact/testreact/codejetapp/src/pages/Wireframe1_0";
 
 function App() {
   return (

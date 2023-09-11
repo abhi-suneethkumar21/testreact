@@ -1,10 +1,10 @@
 import "./style.css";
 import { Nav as Nav_0 } from "./Nav_0";
 import { Menu as Menu_0 } from "./Menu_0";
-import { Rectangle3 as Rectangle3_0 } from "assets/Rectangle3_0";
-import { TEXT } from "components/TEXT";
+import { Rectangle3 as Rectangle3_0 } from "C:/Users/abhis/Desktop/testreact/testreact/codejetapp/src/assets/Rectangle3_0";
+import { TEXT } from "C:/Users/abhis/Desktop/testreact/testreact/codejetapp/src/components/TEXT";
 
-export default Wireframe = () => {
+const Wireframe = () => {
   return (
     <div className="Wireframe_6_3">
       <Nav_0 />
@@ -16,14 +16,12 @@ export default Wireframe = () => {
       <TEXT characters="understanding" className="TEXT_6_39" />
       <TEXT characters="SLI & SLO" className="TEXT_6_40" />
       <TEXT characters="Error" className="TEXT_6_41" />
-      <TEXT
-        characters="Insights
-"
-        className="TEXT_6_42"
-      />
+      <TEXT characters="Insights" className="TEXT_6_42" />
       <TEXT characters="FAQ" className="TEXT_6_43" />
       <TEXT characters="Data ASSETS" className="TEXT_6_44" />
       <TEXT characters="key insights" className="TEXT_6_45" />
     </div>
   );
 };
+
+export default Wireframe;
