@@ -1,0 +1,32 @@
+.Nav_6_4 {
+  transform: translate(0px, 0px) rotate(0deg) scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  min-height: 104px;
+  background-color: rgba(
+    42.44710050523281,
+    77.26174056529999,
+    144.84310537576675,
+    1
+  );
+  border: none;
+}
+
+.TEXT_6_6 {
+  transform: translate(650px, 25px) rotate(0deg) scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: rgba(255, 255, 255, 1);
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 36px;
+  text-align: left;
+  vertical-align: middle;
+  letter-spacing: 0px;
+  line-height: 54px;
+}
